@@ -16,3 +16,7 @@ and then swap back to your "default" credentials
 1. push switching (always uses your default, on push, if fails will cycle configs, if succeeds changes back to default.
 2. responsible easy switching (basically this will be a config manager..., primary, secondary, tertiary, etc.ranary)
 3. accept flags that provide different experiences: responsible easy switching, push switching.
+
+# About the name
+repo name is "git-me-in"
+it is like get me in but uses git 😅
