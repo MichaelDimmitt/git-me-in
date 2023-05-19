@@ -18,5 +18,5 @@ and then swap back to your "default" credentials
 3. accept flags that provide different experiences: responsible easy switching, push switching.
 
 # About the name
-repo name is "git-me-in"
+repo name is "git-me-in"<br/>
 it is like get me in but uses git 😅
